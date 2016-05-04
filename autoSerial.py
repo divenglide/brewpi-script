@@ -10,6 +10,7 @@ known_devices = [
     {'vid': 0x2341, 'pid': 0x8036, 'name': "Arduino Leonardo"},
     {'vid': 0x2341, 'pid': 0x0036, 'name': "Arduino Leonardo Bootloader"},
     {'vid': 0x2341, 'pid': 0x0043, 'name': "Arduino Uno"},
+    {'vid': 0x2341, 'pid': 0x0243, 'name': "Arduino SA"},
     {'vid': 0x2341, 'pid': 0x0001, 'name': "Arduino Uno"},
     {'vid': 0x2a03, 'pid': 0x0010, 'name': "Arduino Mega2560"},
     {'vid': 0x2a03, 'pid': 0x8036, 'name': "Arduino Leonardo"},
